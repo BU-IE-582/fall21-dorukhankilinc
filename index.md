@@ -12,4 +12,10 @@
 
 [Here](HW02/IE582_HW02.ipynb) is my jupyter notebook
 
+## Homework 3 (06/12/2021)
+
+[Here](HW03/IE582_HW03.html) are my nearest-neigbor and logistic regreesion approaches for UwaveGesture Recognition.
+
+[Here](HW03/IE582_HW03.ipynb) is my jupyter notebook
+
 
