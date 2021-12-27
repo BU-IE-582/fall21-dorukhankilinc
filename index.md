@@ -18,4 +18,9 @@
 
 [Here](HW03/IE582_HW03.ipynb) is my jupyter notebook
 
+## Homework 4 (27/12/2021)
+
+[Here](HW04/IE582_HW04.html) is my task about multiple instance learning.
+
+[Here](HW04/IE582_HW04.ipynb) is my jupyter notebook
 
