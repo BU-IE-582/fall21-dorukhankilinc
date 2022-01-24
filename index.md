@@ -24,3 +24,8 @@
 
 [Here](HW04/IE582_HW04.ipynb) is my jupyter notebook
 
+## Project (24/01/2022)
+
+[Here](Project/ProjectReport.html) is my project about gender prediction.
+
+[Here](Project/ProjectReport.ipynb) is my jupyter notebook
